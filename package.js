@@ -15,6 +15,7 @@ Package.on_use(function (api) {
     'tracker',
     'session',
     'pedrohenriquerls:reactjs',
+    'youiest:recommend',
     ], ['client', 'server']);
 
   // like Document W will be an extended coll..
